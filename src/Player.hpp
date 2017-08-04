@@ -1,11 +1,3 @@
-//
-//  Player.hpp
-//  Test
-//
-//  Created by FourEchoes on 7/7/17.
-//  Copyright © 2017 FourEchoes. All rights reserved.
-//
-
 #ifndef Player_hpp
 #define Player_hpp
 
@@ -44,4 +36,4 @@ public:
     
 };
 
-#endif /* Player_hpp */
+#endif

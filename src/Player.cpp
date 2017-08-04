@@ -1,11 +1,3 @@
-//
-//  Player.cpp
-//  Test
-//
-//  Created by FourEchoes on 7/7/17.
-//  Copyright © 2017 FourEchoes. All rights reserved.
-//
-
 #include "Player.hpp"
 #include "Game.hpp"
 #include <SDL_image.h>
@@ -15,7 +7,7 @@ using namespace std;
 
 Player::Player(SDL_Renderer* r){
     SDL_Surface* surface;
-    surface = IMG_Load("res/Player.png");
+    surface = IMG_Load("resources/player/Player.png");
     texture = SDL_CreateTextureFromSurface(r, surface);
     SDL_FreeSurface(surface);
     renderer = r;

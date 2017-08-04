@@ -1,11 +1,3 @@
-//
-//  Game.cpp
-//  Test
-//
-//  Created by FourEchoes on 7/6/17.
-//  Copyright © 2017 FourEchoes. All rights reserved.
-//
-
 #include "Game.hpp"
 #include <iostream>
 #include "Map.hpp"

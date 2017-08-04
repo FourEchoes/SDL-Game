@@ -1,11 +1,3 @@
-//
-//  Game.hpp
-//  Test
-//
-//  Created by FourEchoes on 7/6/17.
-//  Copyright © 2017 FourEchoes. All rights reserved.
-//
-
 #ifndef Game_hpp
 #define Game_hpp
 
@@ -47,4 +39,4 @@ public:
     
 };
 
-#endif /* Game_hpp */
+#endif

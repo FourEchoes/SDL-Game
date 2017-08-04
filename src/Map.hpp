@@ -1,11 +1,3 @@
-//
-//  Map.hpp
-//  Test
-//
-//  Created by FourEchoes on 7/7/17.
-//  Copyright © 2017 FourEchoes. All rights reserved.
-//
-
 #ifndef Map_hpp
 #define Map_hpp
 
@@ -24,4 +16,4 @@ public:
     void draw();
 };
 
-#endif /* Map_hpp */
+#endif
